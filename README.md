@@ -1,4 +1,4 @@
 # rising-star
 This is my first  Repository
 <br>
-Author-Ayush Patel
+Author-Ayush Patel rising
